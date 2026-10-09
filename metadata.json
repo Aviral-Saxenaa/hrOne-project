@@ -1,0 +1,5 @@
+{
+  "name": "Employee Attendance & Analytics API",
+  "description": "Employee Attendance & Analytics API with FastAPI and MongoDB for HROne engineering assignment",
+  "capabilities": []
+}
