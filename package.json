@@ -1,9 +1,0 @@
-{
-  "name": "hr-one-project",
-  "version": "1.0.0",
-  "private": true,
-  "scripts": {
-    "build": "echo 'Build successful'",
-    "dev": "echo 'Dev ready'"
-  }
-}
